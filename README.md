@@ -1,10 +1,11 @@
 <div align="center">
-<h1>Cowin Assist Telegram Bot</h1>
+<h1>CoWin Assistant Telegram Bot</h1>
 <br>
-<img src="https://user-images.githubusercontent.com/640792/117273073-698c2480-ae79-11eb-988f-0770728f0d2c.jpeg" width="200"/>
 </div>
 
-Check the bot here [@cowinassistbot](https://t.me/cowinassistbot).
+CoWin Assistant is based on [CoWinAssistBot](https://github.com/avinassh/cowin-assist)
+
+Check the bot here [@TheCoWinBot](https://t.me/TheCoWinBot).
 
 This is a simple Telegram bot to
 

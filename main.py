@@ -154,7 +154,7 @@ def start(update: Update, _: CallbackContext) -> None:
     Handles /start, the very first message the user gets whenever they start interacting with this bot
     """
     msg = """Hey there!👋
-Welcome to CoWin Assist bot. 
+Welcome to CoWin Assistant. 
 
 I will weekly check slots availability in your area and display them. To start click 🔍 *Check Open Slots*.
 
@@ -271,7 +271,7 @@ Due to recent changes made by Govt for the CoWin website, the bot will not be ab
 
 If you would like to delete your data, click on /delete to permanently delete. Check /help for more available options.
 
-If you are a developer and interested in running the bot by yourself, you may check the source code on [Github](https://github.com/avinassh/cowin-assist).
+If you are a developer and interested in running the bot by yourself, you may check the source code on [Github](https://github.com/SA7ANI/TheCoWinBot).
         """
 
 
